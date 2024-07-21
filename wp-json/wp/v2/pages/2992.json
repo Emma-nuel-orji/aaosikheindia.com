@@ -1,0 +1,14 @@
+                <h3>Fixtures</h3>
+                <div class="lcw-fixtures-outer">
+                  <div class="lcw-tabs"> 
+                    <a class="active" href="https://aaosikheindia.com/matches/series/-1/status/current">
+
+                      Live & Upcomming                    </a> 
+                    <a class="" href="https://aaosikheindia.com/matches/series/-1/status/completed">
+
+                      Completed                    </a> 
+                    <a class="" href="https://aaosikheindia.com/matches/series/-1/status/stats">
+
+                      STATS                    </a> 
+                                      </div>
+            {"id":2992,"date":"2024-04-12T12:53:54","date_gmt":"2024-04-12T07:23:54","guid":{"rendered":"https:\/\/aaosikheindia.com\/matches\/"},"modified":"2024-04-12T12:53:54","modified_gmt":"2024-04-12T07:23:54","slug":"matches","status":"publish","type":"page","link":"https:\/\/aaosikheindia.com\/matches\/","title":{"rendered":"Matches"},"content":{"rendered":"\n","protected":false},"excerpt":{"rendered":"","protected":false},"author":1,"featured_media":0,"parent":0,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"","meta":{"om_disable_all_campaigns":false,"_monsterinsights_skip_tracking":false,"_monsterinsights_sitenote_active":false,"_monsterinsights_sitenote_note":"","_monsterinsights_sitenote_category":0,"_uf_show_specific_survey":0,"_uf_disable_surveys":false,"two_page_speed":[],"footnotes":""},"class_list":{"0":"post-2992","1":"page","2":"type-page","3":"status-publish","5":"no-featured-image-padding"},"_links":{"self":[{"href":"https:\/\/aaosikheindia.com\/wp-json\/wp\/v2\/pages\/2992"}],"collection":[{"href":"https:\/\/aaosikheindia.com\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"https:\/\/aaosikheindia.com\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"https:\/\/aaosikheindia.com\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/aaosikheindia.com\/wp-json\/wp\/v2\/comments?post=2992"}],"version-history":[{"count":0,"href":"https:\/\/aaosikheindia.com\/wp-json\/wp\/v2\/pages\/2992\/revisions"}],"wp:attachment":[{"href":"https:\/\/aaosikheindia.com\/wp-json\/wp\/v2\/media?parent=2992"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
